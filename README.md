@@ -145,3 +145,5 @@ Structural Similarity Index (SSIM) and Peak Signal-to-Noise ratio (PSNR) are use
 1. Data is KING!
 2. Prepare presentation pitch early! 
 3. Pitching narrative > complexity of methodology or solution.
+
+P.S. Panna Cotta arose because it was easier to enunciate than Penobscot
